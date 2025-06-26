@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuickShuttle</string>
+    <string name="booking_id_label">Booking ID: %1$s</string>
+</resources>
